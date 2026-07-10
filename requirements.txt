@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+pydeck
+scipy
+reportlab
+optuna
+openai
+pyshp
+folium
+feedparser

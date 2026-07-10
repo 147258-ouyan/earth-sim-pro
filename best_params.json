@@ -1,0 +1,11 @@
+{
+    "mat_base": 0.028698943804826738,
+    "mat_industry_coef": 0.009963470372789739,
+    "serv_base": 0.021271167005720473,
+    "serv_info_coef": 0.007420805538872284,
+    "birth_rate_young": 0.05300733288106988,
+    "death_old_base": 0.14377637070028385,
+    "institutional_entropy_divisor": 74629022.99486491,
+    "emission_intensity": 7.712811947156355e-05,
+    "war_prob": 0.02624967163228772
+}
