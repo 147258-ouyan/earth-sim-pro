@@ -29,7 +29,7 @@ from earth_sim.world import World
 st.set_page_config(page_title="地球模拟器 Pro++ 在线演示", layout="wide")
 st.title("🌍 地球模拟器 Pro++ 在线演示")
 st.markdown("调节参数，观察文明的命运。**想要更多功能？请下载桌面专业版！**")
-st.info("📥 **桌面专业版** 包含双场景对比、Tornado图、实验矩阵、时间线回放、PDF报告、AI新闻等全部功能，点击[此处](#)下载（请替换为你的下载链接）。")
+st.info("📥 **桌面专业版** 包含双场景对比、Tornado图、实验矩阵、时间线回放、PDF报告、AI新闻等全部功能，📥 点击[此处](https://pan.baidu.com/s/10HoG31XnZylo-uEHb1Ff_A?pwd=t3q8)下载桌面专业版。")
 
 # ---------- 侧边栏参数 ----------
 st.sidebar.header("⚙️ 参数设置")
@@ -140,4 +140,4 @@ if st.sidebar.button("开始敏感性分析"):
 st.markdown("---")
 st.markdown("## 🚀 想获得完整功能？")
 st.markdown("下载 **桌面专业版**，解锁双场景对比、Tornado 图、实验矩阵、时间线回放、PDF 报告、AI 新闻等全部高级功能！")
-st.markdown("📥 点击[此处](#)下载（请替换为你的实际下载链接）")
+st.markdown("📥 点击[此处](https://pan.baidu.com/s/10HoG31XnZylo-uEHb1Ff_A?pwd=t3q8)下载桌面专业版")
