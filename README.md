@@ -35,3 +35,6 @@ MIT License. See [LICENSE](LICENSE) file.
 - Developer: [Ou Yan]
 - Email: [2922125696@qq.com]
 - WeChat: [你的微信]
+
+## Privacy Policy
+Earth Simulator Pro++ does not collect, store, or process any personal data. The software accesses only publicly available economic and environmental data from the World Bank API. No user accounts, cookies, or tracking mechanisms are implemented. This solution complies with relevant privacy laws including the Personal Information Protection Law of the People's Republic of China (PIPL), the Cybersecurity Law of the People's Republic of China, and the EU General Data Protection Regulation (GDPR) 2016/679.
